@@ -53,12 +53,11 @@
 
 | Project | Description |
 |---|---|
-| **[Qodex Software](https://zahid-ali-portfolio.vercel.app/)** | Software development agency website — built with Next.js 15, full SEO implementation, Vercel deployment |
+| **[Qodex Software]([https://zahid-ali-portfolio.vercel.app/](https://www.qodex-software.com/))** | Software development agency website — built with Next.js 15, full SEO implementation, Vercel deployment |
 | **AutoBike** | Mobile application project |
 | **Event Management System** | Platform for organizing and managing events |
 | **MilkarChalo** | Collaborative mobile/web application |
 
-> 📌 *Pin your top repos on your GitHub profile so they show up here automatically — go to your profile → Customize your pins.*
 
 ---
 
@@ -83,4 +82,4 @@
   <a href="mailto:zahidali0081507@gmail.com">Email</a>
 </p>
 
-<p align="center"><i>Open to internship opportunities and interesting collaborations 🚀</i></p>
+<p align="center"><i>Open to opportunities and interesting collaborations 🚀</i></p>
